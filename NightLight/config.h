@@ -13,11 +13,14 @@ const int LED_PIN          = 9;    // must be a PWM pin (marked with ~)
 const int BUTTON_PIN       = 2;
 const int LIGHT_SENSOR_PIN = A0;
 
+
 // ---------- Modes ----------
 enum Mode { MODE_OFF, MODE_AUTO, MODE_ON };
 
 // ---------- Light sensor settings (Task 1, Developer A) ----------
 // TODO Task 1: add any settings you need here (for example: const int SENSOR_SAMPLES = 8;)
+const int SENSOR_SAMPLES    = 8;    
+readlight(SENSOR_SAMPLES);
 
 // ---------- LED settings (Task 2, Developer B) ----------
 // TODO Task 2: add any settings you need here (for example: const int FADE_STEP = 5;)
