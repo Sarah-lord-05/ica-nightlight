@@ -12,7 +12,7 @@ A small Arduino night light that your team builds together while practicing Git 
 
 ## Team
 
-**Project Manager:** Your Name (your GitHub username)
+**Project Manager:**Sarah Lord (Sarah-Lord-05)
 
 **Developer A (Sensor):** Your Name (your GitHub username)
 
