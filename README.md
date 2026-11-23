@@ -14,7 +14,7 @@ A small Arduino night light that your team builds together while practicing Git 
 
 **Project Manager:**Sarah Lord (Sarah-Lord-05)
 
-**Developer A (Sensor):** Your Name (your GitHub username)
+**Developer A (Sensor):** Noah Humphrey (haon3214)
 
 **Developer B (LED):** Nicholas French (ncmustard)
 
